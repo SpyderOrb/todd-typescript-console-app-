@@ -9,10 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/inquirer": "^8.2.5",
     "typescript": "^4.9.3"
   },
   "description": "",
   "dependencies": {
+    "inquirer": "^8.0.0",
     "jshint": "^2.13.6"
   }
 }
